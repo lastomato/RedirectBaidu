@@ -1,4 +1,5 @@
 English version follows.
+=============
 
 == 目的 ==
 
@@ -11,6 +12,8 @@ English version follows.
 == 参与 ==
 
 请贡献 firefox 和 edge 版本。
+
+=============
 
 == Motivation ==
 
